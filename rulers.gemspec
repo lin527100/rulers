@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["393711650@qq.com"]
   spec.summary       = %q{a rack-based web frameword}
   spec.description   = %q{a rack-based web frameword, but with extra awesome.}
-  spec.homepage      = "git@github.com:lin527100/rulers.git"
+  spec.homepage      = "https://github.com/lin527100/rulers.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
